@@ -46,8 +46,8 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: ""
-    favicon16x16: "<link / abs url>"
+    favicon: "https://github.com/dza205/dza205.github.io/blob/6acb54ec4737e0d3f9d50e7a8958688768c6c458/assets/Bandana_Bullet_Kin.png"
+    favicon16x16: "https://github.com/dza205/dza205.github.io/blob/6acb54ec4737e0d3f9d50e7a8958688768c6c458/assets/Bandana_Bullet_Kin.png"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
@@ -59,10 +59,10 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
+    enabled: true # needs to be explicitly set
+    title: ~/.dzablog
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "https://avatars.githubusercontent.com/u/76247222?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
